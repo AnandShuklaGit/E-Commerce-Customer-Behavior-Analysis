@@ -96,7 +96,3 @@ Tablet         28.5%
 
 ### Cart Abandonment Rate
 Customers who added items to cart but didn't purchase are flagged for targeted remarketing campaigns.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
